@@ -1,6 +1,7 @@
 Introdução ao SQL
 O que é SQL?
-SQL (Structured Query Language), ou Linguagem de Consulta Estruturada, é uma linguagem de programação projetada para gerenciar e manipular bancos de dados relacionais. É uma linguagem padrão que permite que você interaja com sistemas de gerenciamento de banco de dados (DBMS) para realizar operações como criar, ler, atualizar e excluir dados.
+SQL (Structured Query Language), ou Linguagem de Consulta Estruturada, é uma linguagem de programação projetada para gerenciar e manipular bancos de dados relacionais. 
+É uma linguagem padrão que permite que você interaja com sistemas de gerenciamento de banco de dados (DBMS) para realizar operações como criar, ler, atualizar e excluir dados.
 
 Por que SQL?
 Padrão Universal: SQL é a linguagem padrão para interagir com bancos de dados relacionais, tornando-o uma habilidade valiosa e amplamente reconhecida no mercado de trabalho.
