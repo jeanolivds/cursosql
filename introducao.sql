@@ -21,7 +21,7 @@ Exemplo:
 CREATE TABLE clientes (
     id INT PRIMARY KEY,
     nome VARCHAR(100),
-    email VARCHAR(10)
+    email VARCHAR(100)
 );
 Data Manipulation Language (DML): Comandos usados para manipular dados dentro dos objetos do banco de dados.
 
